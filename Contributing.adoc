@@ -67,3 +67,4 @@ useful in open source projects:
 * Added new line again and again for our testing purpose
 * update1
 * commit 2
+* new build
